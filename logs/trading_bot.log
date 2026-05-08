@@ -1,0 +1,1 @@
+2026-05-08 14:39:05,468 - bot.client - ERROR - BINANCE_API_KEY and BINANCE_API_SECRET must be set in environment variables or .env file.
